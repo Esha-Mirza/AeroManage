@@ -1,6 +1,7 @@
-# AeroManage
 
 <p align="center">
+  # AeroManage
+
   <strong>Integrated Flight Operations & Reservation Management in C++</strong>
 </p>
 

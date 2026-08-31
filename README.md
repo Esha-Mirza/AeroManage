@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-6A5ACD" alt="OOP">
   <img src="https://img.shields.io/badge/Airline-Management-0F766E" alt="Airline Management">
   <img src="https://img.shields.io/badge/Status-Active-2E7D32" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
 </p>
 
 ---
@@ -584,12 +583,6 @@ Contributions are welcome.
 Then open a pull request.
 
 When contributing, please maintain the existing modular architecture and keep new functionality separated into appropriate classes and components.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 

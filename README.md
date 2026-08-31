@@ -1,6 +1,5 @@
-
+<p align="center"> <h1>AEROMANAGE</h1></p>
 <p align="center">
-  <h1 align="cener">AeroManage</h1>
 
   <strong>Integrated Flight Operations & Reservation Management in C++</strong>
 </p>
